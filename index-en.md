@@ -8,7 +8,7 @@
       <p><b>University of Chinese Academy of Sciences</b></p>
       <p><b>E-mail：jackfang713508@gmail.com</b></p>
       <p><b>Address：618 West Chang'an Street, Chang'an District, Xi’an 710121</b></p>
-      <a href="/Ch-index.md">中文版</a>
+      <a href="/index.md">中文版</a>
     </td>
     <td width="25%">
       <img src="/JackFang.jpg" width="100%">
