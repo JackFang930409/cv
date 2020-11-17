@@ -8,7 +8,7 @@
       <p><b>中国科学院大学</b></p>
       <p><b>邮箱：jackfang713508@gmail.com</b></p>
       <p><b>地址：西安市长安区西长安街618号，邮编710121 </b></p>
-      <a href="/En-index.md">English Version</a>
+      <a href="/index-en.md">English Version</a>
     </td>
     <td width="25%">
       <img src="JackFang.jpg" width="100%">
