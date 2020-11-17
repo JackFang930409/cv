@@ -85,8 +85,8 @@
 
 ### 学术服务
 
-**编辑** 
-- IEEE Transactions on Geoscience and Remote Sensing   **客座编辑**
+**特邀编辑** 
+- IEEE Transactions on Geoscience and Remote Sensing 
 
 **审稿人**： 
 - IEEE Transactions on Image Processing，
