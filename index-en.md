@@ -70,15 +70,15 @@
 - 项目名称：冬虫夏草生长状态评估（中科院-东阳光集团联合开发项目）
 
 ---
-### Awards Information
+### Honors and Awards
 
--  西安电子科技大学校级三等奖学金，2012 2.
--  西安电子科技大学校级二等奖学金、电子工程学院优秀学生，2013 3. 
--  西安电子科技大学校级二等奖学金，2014 4. 
--  国家励志奖学金，2015 5. 
--  中国科学院大学三好学生，2017 6. 
--  中国科学院大学三好学生，2018 7.
--  国家奖学金，2019
+-  Third Level Scholorship of Xidian University，2012 2.
+-  Second Level Scholorship of Xidian University, Excellent Student of the School of Electronic Engineering，2013 3. 
+-  Second Level Scholorship of Xidian University，2014 4. 
+-  National Encouragement Scholorship，2015 5. 
+-  Merit Student of UCAS，2017 6. 
+-  Merit Student of UCAS，2018 7.
+-  National Scholorship，2019. 10
 
 ---
 ### Academic services
