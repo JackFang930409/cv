@@ -47,7 +47,7 @@
 - [9]***<font color=red> J. Fang </font>***, B. Qu, and Y. Yuan, “Distribution Equalization Based Learning Mechanism for Road Crack Detection,” Neurocomputing, DOI: 10.1016/j.neucom.2019.12.057. 
 - [10]***<font color=red> J. Fang </font>***, X. Cao, P. Han, and D. Wang, “Multidimensional Attention Learning for VHR Imagery Recognition,” IEEE Geoscience and Remote Sensing Letters, Under Review. 
 - [11]***<font color=red> J. Fang </font>***, X. Cao, Y. Liu, and D. Wang, “Multi-Task Learning Mechanism for Remote Sensing Image Motion Deblurring” IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. Under Review. 
-- [12]***<font color=red> J. Fang </font>***, “Expanded Edge Penalty Loss for Salient Object Detection,” Mutimedia Tools and Applications. Under Review. 
+- [12]***<font color=red> J. Fang </font>***, and X. Cao, “Expanded Edge Penalty Loss for Salient Object Detection,” Mutimedia Tools and Applications. Under Review. 
 - [13]D. Meng, X. Cao, and ***<font color=red> J. Fang </font>***, “Spatialspectral Decoupling Interaction Network for Multispectral Imagery Change Detection,” Neurocomputing, Under Review. 
 - [14]***<font color=red> J. Fang </font>***, and X. Li, “Explicit and Latent Difficult Sample Learning for Salient Object Detection,” IEEE Trans. Pattern Analysis and Machine Intelligence, Manuscript. 
 - [15]***<font color=red> J. Fang </font>***, and X. Li, “Skeleton-Boundary Guidance Network for Road Extraction,” IEEE Trans. Neural Network and Learning Systems, Manuscript. 
