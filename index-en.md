@@ -25,7 +25,7 @@
 - Doctor: 2015-2020, University of Chinese Academy of Sciences, signal and information processing     (Tutor: Professor Yuan Yuan & Professor Xuelong Li)
 
 ---
-### Scientific Research
+### Scientific Interests
 
 - Artificial Intelligence
 - Machine Learning
@@ -57,7 +57,7 @@
      
 
 ---
-### Research project
+### Project Experiences
 
 - 项目名称：光谱信息协同感知下的军事场景理解（军委科技委项目）
 
