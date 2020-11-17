@@ -29,7 +29,7 @@
 
 ### 研究工作
 
-- 主要研究视觉影像的语义理解及其应用，包括影像质量改善、多层级语义建模以及算法的推广应用。具体地，通过关注影像和干扰之间的关系改善其质量，通过关注目标之间的关系提高图像级识别系统的性能，通过关注样本之间的关系提高目标级识别系统的性能，通过关注像素之间的关系提高像素级识别系统的性能。另外，将理论研究成果应用在道路裂缝检测、微纳遥感卫星成像、复杂军事场景解译等实际任务中并取得了良好的表现。
+- 主要研究视觉影像的语义理解及其应用，包括影像质量改善、多层级语义建模以及算法的推广应用。具体地，通过关注影像和干扰之间的关系改善其质量，通过关注目标之间的关系提高图像级识别系统的性能，通过关注样本之间的关系提高目标级识别系统的性能，通过关注像素之间的关系提高像素级识别系统的性能。另外，将理论研究成果应用在道路裂缝检测、微纳遥感卫星成像、复杂军事场景解译和医疗诊断等实际任务并取得了良好的表现。
 
 ---
 
@@ -45,11 +45,11 @@
 - [7]***<font color=red> J. Fang </font>***, and X. Cao, “Multidimensional Relation Learning for Hyperspectral Image Classification,” Neurocomputing, vol. 410, pp. 211-219, 2020. 
 - [8]S. Wu, ***<font color=red> J. Fang </font>***, X. Zheng, and X. Li, “Sample and Structure Guided Network for Road Crack Detection,” IEEE Access, vol. 7, pp. 130032-130043. 
 - [9]***<font color=red> J. Fang </font>***, B. Qu, and Y. Yuan, “Distribution Equalization Based Learning Mechanism for Road Crack Detection,” Neurocomputing, DOI: 10.1016/j.neucom.2019.12.057. 
-- [10]***<font color=red> J. Fang </font>***, and X. Cao, “Multi-Task Learning Mechanism for Remote Sensing Image Motion Deblurring” IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. Under Review. 
-- [11]***<font color=red> J. Fang </font>***, “Expanded Edge Penalty Loss for Salient Object Detection,” ACM Trans. Mutimedia Computing, Communication, and Applications. Under Review. 
-- [12]D. Meng, X. Cao, and ***<font color=red> J. Fang </font>***, “Spatialspectral Decoupling Interaction Network for Multispectral Imagery Change Detection,” IEEE Access, Under Review. 
-- [13]***<font color=red> J. Fang </font>***, and X. Li, “Explicit and Latent Difficult Sample Learning for Salient Object Detection,” IEEE Trans. Pattern Analysis and Machine Intelligence, Manuscript. 
-- [14]***<font color=red> J. Fang </font>***, and X. Li, “Multidimensional Attention Learning for VHR Imagery Recognition,” Pattern Recognition, Manuscript. 
+- [10]***<font color=red> J. Fang </font>***, X. Cao, P. Han, and D. Wang, “Multidimensional Attention Learning for VHR Imagery Recognition,” IEEE Geoscience and Remote Sensing Letters, Under Review. 
+- [11]***<font color=red> J. Fang </font>***, X. Cao, Y. Liu, and D. Wang, “Multi-Task Learning Mechanism for Remote Sensing Image Motion Deblurring” IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. Under Review. 
+- [12]***<font color=red> J. Fang </font>***, “Expanded Edge Penalty Loss for Salient Object Detection,” Mutimedia Tools and Applications. Under Review. 
+- [13]D. Meng, X. Cao, and ***<font color=red> J. Fang </font>***, “Spatialspectral Decoupling Interaction Network for Multispectral Imagery Change Detection,” Neurocomputing, Under Review. 
+- [14]***<font color=red> J. Fang </font>***, and X. Li, “Explicit and Latent Difficult Sample Learning for Salient Object Detection,” IEEE Trans. Pattern Analysis and Machine Intelligence, Manuscript. 
 - [15]***<font color=red> J. Fang </font>***, and X. Li, “Skeleton-Boundary Guidance Network for Road Extraction,” IEEE Trans. Neural Network and Learning Systems, Manuscript. 
 - [16]***<font color=red> J. Fang </font>***, and X. Li, “Multiscale LBP Based Meta-Learning Framework for Disaster Monitoring,” Neurocomputing, Manuscript.
              
