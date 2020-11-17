@@ -79,7 +79,7 @@
 ---
 ### 学术服务
 
- **编辑** 
+**编辑** 
 - IEEE Transactions on Geoscience and Remote Sensing   **特邀编辑**
 
 **审稿专家**： 
