@@ -91,7 +91,6 @@
 - International Joint Conference on Artificial Intelligence，
 - Chinese Conference on Pattern Recognition and Computer Vision
 - ISPRS Journal of Photogrammetry and Remote Sensing
----
 
  
 
