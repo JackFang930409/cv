@@ -57,7 +57,7 @@
 ---
 
 ### 科研项目
-- 项目名称：光谱信息协同感知下的军事场景理解（军委科技委项目）
+- 项目名称：光谱信息协同感知下的军事场景理解（XX科技委项目）
 
 - 项目名称：面向突发安全事件的大数据智能分析（陕西省重点研发计划项目） 
    
@@ -69,13 +69,13 @@
    
 ---
 ### 荣誉奖励
--  西安电子科技大学校级三等奖学金，2012 2.
--  西安电子科技大学校级二等奖学金、电子工程学院优秀学生，2013 3. 
--  西安电子科技大学校级二等奖学金，2014 4. 
--  国家励志奖学金，2015 5. 
--  中国科学院大学三好学生，2017 6. 
--  中国科学院大学三好学生，2018 7.
--  国家奖学金，2019
+-  西安电子科技大学校级三等奖学金，2012. 2.
+-  西安电子科技大学校级二等奖学金、电子工程学院优秀学生，2013. 3. 
+-  西安电子科技大学校级二等奖学金，2014. 4. 
+-  国家励志奖学金，2015. 5. 
+-  中国科学院大学三好学生，2017. 6. 
+-  中国科学院大学三好学生，2018. 7.
+-  国家奖学金，2019. 10
 
 ---
 
@@ -85,7 +85,8 @@
 - IEEE Transactions on Geoscience and Remote Sensing   **特邀编辑**
 
 **审稿专家**： 
-- IEEE Transactions on Geoscience and Remote Sensing，
+- IEEE Transactions on Image Processing，
+- IEEE Transactions on Neural Network and Learning Systems,
 - IEEE Geoscience and Remote Sensing Letter，
 - Neurocomputing，Pattern Recognition，Pattern Recognition Letter
 - International Joint Conference on Artificial Intelligence，
