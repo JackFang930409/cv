@@ -82,9 +82,9 @@
 ### 学术服务
 
 **编辑** 
-- IEEE Transactions on Geoscience and Remote Sensing   **特邀编辑**
+- IEEE Transactions on Geoscience and Remote Sensing   **客座编辑**
 
-**审稿专家**： 
+**审稿人**： 
 - IEEE Transactions on Image Processing，
 - IEEE Transactions on Neural Network and Learning Systems,
 - IEEE Geoscience and Remote Sensing Letter，
