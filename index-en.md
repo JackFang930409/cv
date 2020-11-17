@@ -27,10 +27,13 @@
 ---
 ### Scientific Research
 
-- This paper mainly studies the semantic understanding and application of visual images, including image quality improvement, multi-level semantic modeling and the promotion and application of algorithms. Specifically, the quality of the image level recognition system is improved by focusing on the relationship between the image and the interference, the performance of the image level recognition system is improved by focusing on the relationship between the targets, the performance of the target level recognition system is improved by focusing on the relationship between the samples, and the performance of the pixel level recognition system is improved by focusing on the relationship between the pixels. In addition, the theoretical research results have been applied to road crack detection, micro nano remote sensing satellite imaging, complex military scene interpretation and other practical tasks, and achieved good performance. 
+- Artificial Intelligence
+- Machine Learning
+- Visual Imagery Understanding
+- Multi-Modal Joint Perception
 
 ---
-### Academic papers
+### Publications
 
 - [1]X. Lu, Y. Yuan, and ***<font color=red> J. Fang </font>***, “JM-Net and Cluster-SVM for Aerial Scene Classification,” Proc. Int’l conf. Artificial Intelligence, pp. 2386-2392, 2017. 
 - [2]***<font color=red> J. Fang </font>*** and X. Cao, “GAN and DCN based Muti-Step Supervised Learning for Image Semantic Segmentation,” Proc. Chinese conf. Pattern Recognition and Computer Vision, pp. 28-40, 2018. 
@@ -41,11 +44,11 @@
 - [7]***<font color=red> J. Fang </font>***, and X. Cao, “Multidimensional Relation Learning for Hyperspectral Image Classification,” Neurocomputing, vol. 410, pp. 211-219, 2020. 
 - [8]S. Wu, ***<font color=red> J. Fang </font>***, X. Zheng, and X. Li, “Sample and Structure Guided Network for Road Crack Detection,” IEEE Access, vol. 7, pp. 130032-130043. 
 - [9]***<font color=red> J. Fang </font>***, B. Qu, and Y. Yuan, “Distribution Equalization Based Learning Mechanism for Road Crack Detection,” Neurocomputing, DOI: 10.1016/j.neucom.2019.12.057. 
-- [10]***<font color=red> J. Fang </font>***, and X. Cao, “Multi-Task Learning Mechanism for Remote Sensing Image Motion Deblurring” IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. Under Review. 
-- [11]***<font color=red> J. Fang </font>***, “Expanded Edge Penalty Loss for Salient Object Detection,” ACM Trans. Mutimedia Computing, Communication, and Applications. Under Review. 
-- [12]D. Meng, X. Cao, and ***<font color=red> J. Fang </font>***, “Spatialspectral Decoupling Interaction Network for Multispectral Imagery Change Detection,” IEEE Access, Under Review. 
-- [13]***<font color=red> J. Fang </font>***, and X. Li, “Explicit and Latent Difficult Sample Learning for Salient Object Detection,” IEEE Trans. Pattern Analysis and Machine Intelligence, Manuscript. 
-- [14]***<font color=red> J. Fang </font>***, and X. Li, “Multidimensional Attention Learning for VHR Imagery Recognition,” Pattern Recognition, Manuscript. 
+- [10]***<font color=red> J. Fang </font>***, X. Cao, P. Han, and D. Wang, “Multidimensional Attention Learning for VHR Imagery Recognition,” IEEE Geoscience and Remote Sensing Letters, Under Review. 
+- [11]***<font color=red> J. Fang </font>***, X. Cao, Y. Liu, and D. Wang, “Multi-Task Learning Mechanism for Remote Sensing Image Motion Deblurring” IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. Under Review. 
+- [12]***<font color=red> J. Fang </font>***, and X. Cao, “Expanded Edge Penalty Loss for Salient Object Detection,” Mutimedia Tools and Applications. Under Review. 
+- [13]D. Meng, X. Cao, and ***<font color=red> J. Fang </font>***, “Spatialspectral Decoupling Interaction Network for Multispectral Imagery Change Detection,” Neurocomputing, Under Review. 
+- [14]***<font color=red> J. Fang </font>***, and X. Li, “Explicit and Latent Difficult Sample Learning for Salient Object Detection,” IEEE Trans. Pattern Analysis and Machine Intelligence, Manuscript. 
 - [15]***<font color=red> J. Fang </font>***, and X. Li, “Skeleton-Boundary Guidance Network for Road Extraction,” IEEE Trans. Neural Network and Learning Systems, Manuscript. 
 - [16]***<font color=red> J. Fang </font>***, and X. Li, “Multiscale LBP Based Meta-Learning Framework for Disaster Monitoring,” Neurocomputing, Manuscript.
              
