@@ -42,9 +42,9 @@
 
 - [1]X. Lu, Y. Yuan, and ***<font color=red> J. Fang </font>***, “JM-Net and Cluster-SVM for Aerial Scene Classification,” Proc. Int’l conf. Artificial Intelligence, pp. 2386-2392, 2017. 
 - [2]***<font color=red> J. Fang </font>*** and X. Cao, “GAN and DCN based Muti-Step Supervised Learning for Image Semantic Segmentation,” Proc. Chinese conf. Pattern Recognition and Computer Vision, pp. 28-40, 2018. 
-- [3]***<font color=red> J. Fang </font>***, Y. Yuan, X. Lu and Y. Feng, “Muti-Stage Learning for Gender and Age Prediction,” Neurocomputing. vol. 334, pp. 114-124.
+- [3]***<font color=red> J. Fang </font>***, Y. Yuan, X. Lu and Y. Feng, “Muti-Stage Learning for Gender and Age Prediction,” Neurocomputing. vol. 334, pp. 114-124, 2019.
 - [4]Y. Yuan, ***<font color=red> J. Fang </font>***, X. Lu and Y. Feng., “Remote Sensing Image Scene Classification Using Rearranged Local Features,” IEEE Trans. Geoscience and Remote Sensing, vol. 57, no.3, pp. 1779-1792,2019. 
-- [5]Y. Yuan, ***<font color=red> J. Fang </font>***, X. Lu and Y. Feng “Spatial Structure Preserving Feature Pyramid Network for Semantic Segmentation,” ACM Trans. Mutimedia Computing, Communication, and Applications, vol.15, no.3, pp. 73. 
+- [5]Y. Yuan, ***<font color=red> J. Fang </font>***, X. Lu and Y. Feng “Spatial Structure Preserving Feature Pyramid Network for Semantic Segmentation,” ACM Trans. Mutimedia Computing, Communication, and Applications, vol.15, no.3, pp. 73, 2019. 
 - [6]***<font color=red> J. Fang </font>***, Y. Yuan, X. Lu and Y. Feng, “Robust Space-Frequency Joint Representation for Remote Sensing Image Scene Classification,” IEEE Trans. Geoscience and Remote Sensing, vol. 57, no. 10, pp. 7492-7502, 2019. 
 - [7]***<font color=red> J. Fang </font>***, and X. Cao, “Multidimensional Relation Learning for Hyperspectral Image Classification,” Neurocomputing, vol. 410, pp. 211-219, 2020. 
 - [8]S. Wu, ***<font color=red> J. Fang </font>***, X. Zheng, and X. Li, “Sample and Structure Guided Network for Road Crack Detection,” IEEE Access, vol. 7, pp. 130032-130043. 
