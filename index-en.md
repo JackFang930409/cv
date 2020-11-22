@@ -23,7 +23,7 @@
 
 - Bachelor: 2011-2015, Xidian University, Department of telecommunication engineering
 - Doctor: 2015-2020, University of Chinese Academy of Sciences, signal and information processing (Tutor: Professor Yuan Yuan & Professor Xuelong Li)
-- Postdoctor: 2020-Present, OPTIMAL, Talent Zone, Northwestern Polytechnical University， Signal and information processing (Tutor: Professor Xuelong Li)
+- Postdoctor: 2020-Present, OPTIMAL, Talent Zone, Northwestern Polytechnical University, Signal and information processing (Tutor: Professor Xuelong Li)
 
 ---
 ### Scientific Interests
