@@ -46,9 +46,9 @@
 - [4]Y. Yuan, ***<font color=red> J. Fang </font>***, X. Lu and Y. Feng., “Remote Sensing Image Scene Classification Using Rearranged Local Features,” IEEE Trans. Geoscience and Remote Sensing, vol. 57, no.3, pp. 1779-1792,2019. 
 - [5]Y. Yuan, ***<font color=red> J. Fang </font>***, X. Lu and Y. Feng “Spatial Structure Preserving Feature Pyramid Network for Semantic Segmentation,” ACM Trans. Mutimedia Computing, Communication, and Applications, vol.15, no.3, pp. 73, 2019. 
 - [6]***<font color=red> J. Fang </font>***, Y. Yuan, X. Lu and Y. Feng, “Robust Space-Frequency Joint Representation for Remote Sensing Image Scene Classification,” IEEE Trans. Geoscience and Remote Sensing, vol. 57, no. 10, pp. 7492-7502, 2019. 
-- [7]***<font color=red> J. Fang </font>***, and X. Cao, “Multidimensional Relation Learning for Hyperspectral Image Classification,” Neurocomputing, vol. 410, pp. 211-219, 2020. 
-- [8]S. Wu, ***<font color=red> J. Fang </font>***, X. Zheng, and X. Li, “Sample and Structure Guided Network for Road Crack Detection,” IEEE Access, vol. 7, pp. 130032-130043, 2019. 
-- [9]***<font color=red> J. Fang </font>***, B. Qu, and Y. Yuan, “Distribution Equalization Based Learning Mechanism for Road Crack Detection,” Neurocomputing, 2019. DOI: 10.1016/j.neucom.2019.12.057. 
+- [7]S. Wu, ***<font color=red> J. Fang </font>***, X. Zheng, and X. Li, “Sample and Structure Guided Network for Road Crack Detection,” IEEE Access, vol. 7, pp. 130032-130043, 2019. 
+- [8]***<font color=red> J. Fang </font>***, B. Qu, and Y. Yuan, “Distribution Equalization Based Learning Mechanism for Road Crack Detection,” Neurocomputing, 2019. DOI: 10.1016/j.neucom.2019.12.057. 
+- [9]***<font color=red> J. Fang </font>***, and X. Cao, “Multidimensional Relation Learning for Hyperspectral Image Classification,” Neurocomputing, vol. 410, pp. 211-219, 2020. 
 - [10]***<font color=red> J. Fang </font>***, X. Cao, P. Han, and D. Wang, “Multidimensional Attention Learning for VHR Imagery Recognition,” IEEE Geoscience and Remote Sensing Letters, Under Review. 
 - [11]***<font color=red> J. Fang </font>***, X. Cao, Y. Liu, and D. Wang, “Multi-Task Learning Mechanism for Remote Sensing Image Motion Deblurring” IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. Under Review. 
 - [12]***<font color=red> J. Fang </font>***, and X. Cao, “Expanded Edge Penalty Loss for Salient Object Detection,” Mutimedia Tools and Applications. Under Review. 
